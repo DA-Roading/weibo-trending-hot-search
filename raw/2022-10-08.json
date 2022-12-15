@@ -1,5 +1,8 @@
 [
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E6%B6%88%E8%B4%B9930.9%E5%85%83%E9%81%AD%E5%8F%8D%E5%90%91%E6%8A%B9%E9%9B%B6%23&t=31&band_rank=1&Refer=top",
     "title": "市监局回应消费930.9元遭反向抹零"
@@ -2567,7 +2570,10 @@
     "url": "/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&t=31&band_rank=50&Refer=top",
     "title": "中餐厅"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top",
     "title": "体检报告上的常见异常"

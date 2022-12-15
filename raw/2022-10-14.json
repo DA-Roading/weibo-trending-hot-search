@@ -561,7 +561,10 @@
     "url": "/weibo?q=%23%E8%85%B0%E8%85%B9%E8%B5%98%E8%82%89%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9%23&t=31&band_rank=50&Refer=top",
     "title": "腰腹赘肉别来沾边"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E7%94%A8%E6%B7%98%E5%AE%9D%E5%81%9A%E5%A4%B4%E5%83%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23&t=31&band_rank=2&Refer=top",
     "title": "用淘宝做头像是什么梗"

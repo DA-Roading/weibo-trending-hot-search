@@ -403,7 +403,10 @@
     "url": "/weibo?q=%E5%90%88%E8%82%A5%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&t=31&band_rank=50&Refer=top",
     "title": "合肥疫情防控"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E4%BD%A0%E8%82%AF%E5%AE%9A%E8%A7%81%E8%BF%87%E8%BF%99%E4%B8%AA%E5%BA%8A%E5%8D%95%23&t=31&band_rank=2&Refer=top",
     "title": "你肯定见过这个床单"
