@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 08 2024 22:06:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 08 2024 23:07:15 GMT+0800 (China Standard Time) -->
 
 1. [习近平心系历史文化遗产保护传承](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4%E4%BC%A0%E6%89%BF%23&Refer=new_time)
 1. [玫瑰的故事收视率](https://s.weibo.com//weibo?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=1&Refer=top)
