@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 28 2025 04:10:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 28 2025 05:08:23 GMT+0800 (China Standard Time) -->
 
 1. [种下石榴籽开出团结花](https://s.weibo.com//weibo?q=%23%E7%A7%8D%E4%B8%8B%E7%9F%B3%E6%A6%B4%E7%B1%BD%E5%BC%80%E5%87%BA%E5%9B%A2%E7%BB%93%E8%8A%B1%23&Refer=new_time)
 1. [哪吒2配音演员起诉配音公司](https://s.weibo.com//weibo?q=%23%E5%93%AA%E5%90%922%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%B5%B7%E8%AF%89%E9%85%8D%E9%9F%B3%E5%85%AC%E5%8F%B8%23&t=31&band_rank=1&Refer=top)
