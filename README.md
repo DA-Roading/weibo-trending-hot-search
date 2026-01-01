@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 15:14:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 16:15:49 GMT+0800 (China Standard Time) -->
 
 1. [习主席新年贺词这样展望2026](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E8%BF%99%E6%A0%B7%E5%B1%95%E6%9C%9B2026%23&Refer=new_time)
 1. [2026年第一天](https://s.weibo.com//weibo?q=%232026%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=1&Refer=top)
